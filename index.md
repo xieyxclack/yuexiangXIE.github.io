@@ -14,6 +14,15 @@ Email: yuexiang.xyx AT alibaba-inc.com
 
 ### Publications ([google scholar](https://scholar.google.com.hk/citations?user=fhWk0gEAAAAJ&hl=zh-CN), [dblp](https://dblp.org/pid/232/2045.html))
 
+[2024]
++ [Privacy-Preserving Cross-Domain Recommendation with Federated Graph Learning](https://dl.acm.org/doi/pdf/10.1145/3653448)
+  + Changxin Tian, **Yuexiang Xie**, Xu Chen, Yaliang Li, Xin Zhao
+  + *In TOIS, 2024*
++ [When to Trust LLMs: Aligning Confidence with Response Quality](https://arxiv.org/abs/2404.17287)
+  + Shuchang Tao, Liuyi Yao, Hanxing Ding, **Yuexiang Xie**, Qi Cao, Fei Sun, Jinyang Gao, Huawei Shen, Bolin Ding
+  + *In ACL, 2024*
+
+
 [2023]
 + [Tunable Soft Prompts are Messengers in Federated Learning](https://aclanthology.org/2023.findings-emnlp.976/)
   + Chenhe Dong\*, **Yuexiang Xie\***, Bolin Ding, Ying Shen, Yaliang Li
