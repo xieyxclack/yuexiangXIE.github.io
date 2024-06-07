@@ -116,10 +116,6 @@ Email: yuexiang.xyx AT alibaba-inc.com
 
 
 ### Program Committee Memberships
-+ ICLR'24, ICML'24, KDD'24, ARR'24 (Feb.)
-+ NeurIPS'23, NeurIPS-B'23, ICML'23, KDD'23
-+ NeurIPS'22, KDD'22
-+ AAAI'21
-+ TNNLS, TBD
++ Regular Reviewer (or PC Member): ICLR, ICML, NeurIPS, NeurIPS Datasets and Benchmarks, ACL ARR, KDD, AAAI, TNNLS, TBD
 
 
