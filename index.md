@@ -14,7 +14,22 @@ Email: yuexiang.xyx AT alibaba-inc.com
 
 ### Publications ([google scholar](https://scholar.google.com.hk/citations?user=fhWk0gEAAAAJ&hl=zh-CN), [dblp](https://dblp.org/pid/232/2045.html))
 
-[2024]
+[2024] 
++ [Very Large-Scale Multi-Agent Simulation in AgentScope](https://arxiv.org/abs/2407.17789)
+  + Xuchen Pan, Dawei Gao, **Yuexiang Xie**, Zhewei Wei, Yaliang Li, Bolin Ding, Ji-Rong Wen, Jingren Zhou
+  + *arXiv, 2024* [[code](https://github.com/modelscope/agentscope)]
++ [Towards Robust Alignment of Language Models: Distributionally Robustifying Direct Preference Optimization](https://arxiv.org/abs/2407.07880)
+  + Junkang Wu, **Yuexiang Xie**, Zhengyi Yang, Jiancan Wu, Jiawei Chen, Jinyang Gao, Bolin Ding, Xiang Wang, Xiangnan He
+  + *arXiv, 2024* [[code](https://github.com/junkangwu/Dr_DPO)]
++ [$\beta$-DPO: Direct Preference Optimization with Dynamic $\beta$](https://arxiv.org/abs/2407.08639)
+  + Junkang Wu, **Yuexiang Xie**, Zhengyi Yang, Jiancan Wu, Jinyang Gao, Bolin Ding, Xiang Wang, Xiangnan He
+  + *arXiv, 2024* [[code](https://github.com/junkangwu/beta-DPO)]
++ [Data-Juicer: A One-Stop Data Processing System for Large Language Models](https://arxiv.org/abs/2309.02033)
+  + Daoyuan Chen, Yilun Huang, Zhijian Ma, Hesen Chen, Xuchen Pan, Ce Ge, Dawei Gao, **Yuexiang Xie**, Zhaoyang Liu, Jinyang Gao, Yaliang Li, Bolin Ding, Jingren Zhou
+  + *In SIGMOD, 2024* [[code](https://github.com/alibaba/data-juicer)]
++ [FederatedScope-LLM: A Comprehensive Package for Fine-tuning Large Language Models in Federated Learning](https://arxiv.org/abs/2309.00363)
+  + Weirui Kuang, Bingchen Qian, Zitao Li, Daoyuan Chen, Dawei Gao, Xuchen Pan, **Yuexiang Xie**, Yaliang Li, Bolin Ding, Jingren Zhou
+  + *KDD, 2024* [[code](https://github.com/alibaba/FederatedScope/tree/llm)]
 + [Privacy-Preserving Cross-Domain Recommendation with Federated Graph Learning](https://dl.acm.org/doi/pdf/10.1145/3653448)
   + Changxin Tian, **Yuexiang Xie**, Xu Chen, Yaliang Li, Xin Zhao
   + *In TOIS, 2024*
@@ -27,12 +42,6 @@ Email: yuexiang.xyx AT alibaba-inc.com
 + [Tunable Soft Prompts are Messengers in Federated Learning](https://aclanthology.org/2023.findings-emnlp.976/)
   + Chenhe Dong\*, **Yuexiang Xie\***, Bolin Ding, Ying Shen, Yaliang Li
   + *In EMNLP, 2023* [[code](https://github.com/alibaba/FederatedScope/tree/fedsp/federatedscope/nlp/fedsp)]
-+ [Data-Juicer: A One-Stop Data Processing System for Large Language Models](https://arxiv.org/abs/2309.02033)
-  + Daoyuan Chen, Yilun Huang, Zhijian Ma, Hesen Chen, Xuchen Pan, Ce Ge, Dawei Gao, **Yuexiang Xie**, Zhaoyang Liu, Jinyang Gao, Yaliang Li, Bolin Ding, Jingren Zhou
-  + *arXiv, 2023* [[code](https://github.com/alibaba/data-juicer)]
-+ [FederatedScope-LLM: A Comprehensive Package for Fine-tuning Large Language Models in Federated Learning](https://arxiv.org/abs/2309.00363)
-  + Weirui Kuang, Bingchen Qian, Zitao Li, Daoyuan Chen, Dawei Gao, Xuchen Pan, **Yuexiang Xie**, Yaliang Li, Bolin Ding, Jingren Zhou
-  + *arXiv, 2023* [[code](https://github.com/alibaba/FederatedScope/tree/llm)]
 + [FederatedScope: A Flexible Federated Learning Platform for Heterogeneity](https://arxiv.org/abs/2204.05011)
   + **Yuexiang Xie\***, Zhen Wang\*, Daoyuan Chen, Dawei Gao, Liuyi Yao, Weirui Kuang, Yaliang Li, Bolin Ding, Jingren Zhou 
   + *In VLDB, 2023* [[code](https://github.com/alibaba/FederatedScope)]
