@@ -35,7 +35,7 @@ Email: yuexiang.xyx AT alibaba-inc.com
   + *In TOIS, 2024*
 + [When to Trust LLMs: Aligning Confidence with Response Quality](https://arxiv.org/abs/2404.17287)
   + Shuchang Tao, Liuyi Yao, Hanxing Ding, **Yuexiang Xie**, Qi Cao, Fei Sun, Jinyang Gao, Huawei Shen, Bolin Ding
-  + *In ACL, 2024*
+  + *In ACL, 2024* [[code](https://github.com/TaoShuchang/CONQORD)]
 
 
 [2023]
