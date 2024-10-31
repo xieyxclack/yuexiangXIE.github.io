@@ -4,32 +4,41 @@
 Alibaba Group   
 Email: yuexiang.xyx AT alibaba-inc.com
 
+### Work Experiences
 
-### Awards & Scholarships
-
-+ Best Paper Award at Applied Data Science Track, KDD'22
-+ KDD Cup, AutoML Track, 4/149, May 2020.
-+ National Scholarship, Sep 2014.
++ July 2020 - Now, Alibaba Group, Hang Zhou.
 
 
 ### Publications ([google scholar](https://scholar.google.com.hk/citations?user=fhWk0gEAAAAJ&hl=zh-CN), [dblp](https://dblp.org/pid/232/2045.html))
 
 [2024] 
 + [Very Large-Scale Multi-Agent Simulation in AgentScope](https://arxiv.org/abs/2407.17789)
-  + Xuchen Pan, Dawei Gao, **Yuexiang Xie**, Zhewei Wei, Yaliang Li, Bolin Ding, Ji-Rong Wen, Jingren Zhou
+  + Xuchen Pan, Dawei Gao, **Yuexiang Xie**, Yushuo Chen, Zhewei Wei, Yaliang Li, Bolin Ding, Ji-Rong Wen, Jingren Zhou
   + *arXiv, 2024* [[code](https://github.com/modelscope/agentscope)]
 + [Towards Robust Alignment of Language Models: Distributionally Robustifying Direct Preference Optimization](https://arxiv.org/abs/2407.07880)
   + Junkang Wu, **Yuexiang Xie**, Zhengyi Yang, Jiancan Wu, Jiawei Chen, Jinyang Gao, Bolin Ding, Xiang Wang, Xiangnan He
   + *arXiv, 2024* [[code](https://github.com/junkangwu/Dr_DPO)]
 + [$\beta$-DPO: Direct Preference Optimization with Dynamic $\beta$](https://arxiv.org/abs/2407.08639)
   + Junkang Wu, **Yuexiang Xie**, Zhengyi Yang, Jiancan Wu, Jinyang Gao, Bolin Ding, Xiang Wang, Xiangnan He
-  + *arXiv, 2024* [[code](https://github.com/junkangwu/beta-DPO)]
+  + *In NeurIPS, 2024* [[code](https://github.com/junkangwu/beta-DPO)]
++ [Understanding Byzantine Robustness in Federated Learning with A Black-box Server](https://arxiv.org/abs/2408.06042)
+  + Fangyuan Zhao, **Yuexiang Xie**, Xuebin Ren, Bolin Ding, Shusen Yang, Yaliang Li
+  + *arXiv, 2024* [[code](https://github.com/alibaba/FederatedScope/tree/Byzantine_attack_defense)]
++ [Exploring Selective Layer Fine-Tuning in Federated Learning](https://arxiv.org/abs/2408.15600)
+  + Yuchang Sun, **Yuexiang Xie**, Bolin Ding, Yaliang Li, Jun Zhang
+  + *arXiv, 2024*
++ [Agent-Oriented Planning in Multi-Agent Systems](https://arxiv.org/abs/2410.02189)
+  + Ao Li, **Yuexiang Xie**, Songze Li, Fugee Tsung, Bolin Ding, Yaliang Li
+  + *arXiv, 2024*
 + [Data-Juicer: A One-Stop Data Processing System for Large Language Models](https://arxiv.org/abs/2309.02033)
   + Daoyuan Chen, Yilun Huang, Zhijian Ma, Hesen Chen, Xuchen Pan, Ce Ge, Dawei Gao, **Yuexiang Xie**, Zhaoyang Liu, Jinyang Gao, Yaliang Li, Bolin Ding, Jingren Zhou
   + *In SIGMOD, 2024* [[code](https://github.com/alibaba/data-juicer)]
++ [Is Sharing Neighbor Generator in Federated Graph Learning Safe?](https://www.computer.org/csdl/journal/tk/5555/01/10721361/218NN0mXwSA)
+  + Liuyi Yao, Zhen Wang, **Yuexiang Xie**, Yaliang Li, Weirui Kuang, Daoyuan Chen, Bolin Ding
+  + *In IEEE Transactions on Knowledge and Data Engineering, 2024*
 + [FederatedScope-LLM: A Comprehensive Package for Fine-tuning Large Language Models in Federated Learning](https://arxiv.org/abs/2309.00363)
   + Weirui Kuang, Bingchen Qian, Zitao Li, Daoyuan Chen, Dawei Gao, Xuchen Pan, **Yuexiang Xie**, Yaliang Li, Bolin Ding, Jingren Zhou
-  + *KDD, 2024* [[code](https://github.com/alibaba/FederatedScope/tree/llm)]
+  + *In KDD, 2024* [[code](https://github.com/alibaba/FederatedScope/tree/llm)]
 + [Privacy-Preserving Cross-Domain Recommendation with Federated Graph Learning](https://dl.acm.org/doi/pdf/10.1145/3653448)
   + Changxin Tian, **Yuexiang Xie**, Xu Chen, Yaliang Li, Xin Zhao
   + *In TOIS, 2024*
@@ -118,13 +127,14 @@ Email: yuexiang.xyx AT alibaba-inc.com
   + Jingchao Dai, Kaiqi Yuan, **Yuexiang Xie**, Ying Shen
   + *In KSEM, 2019*
 
+### Awards & Scholarships
 
-### Work Experiences
-
-+ July 2020 - Now, Alibaba Group, Hang Zhou.
++ Best Paper Award at Applied Data Science Track, KDD'22
++ KDD Cup, AutoML Track, 4/149, May 2020.
++ National Scholarship, Sep 2014.
 
 
 ### Program Committee Memberships
-+ Regular Reviewer (or PC Member): ICLR, ICML, NeurIPS, NeurIPS Datasets and Benchmarks, ACL ARR, KDD, AAAI, TNNLS, TBD
++ Regular Reviewer (or PC Member): ICLR, ICML, NeurIPS, NeurIPS Datasets and Benchmarks, ACL ARR, KDD, WWW, AAAI, TNNLS, TBD
 
 
